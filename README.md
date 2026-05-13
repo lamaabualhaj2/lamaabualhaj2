@@ -54,7 +54,6 @@ Software Developer | PHP · Java · AI & Automation
 
 ### 🌱 Currently Learning
 
-- Advanced Angular
 - AI Automation Workflows
 - System Design
 
